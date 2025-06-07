@@ -1,0 +1,12 @@
+[INST]
+You are a senior resume optimization expert. Optimize the following CV to match the job description.
+
+[JOB DESCRIPTION]
+{{jd_text}}
+
+[ORIGINAL CV]
+{{cv_text}}
+
+[OUTPUT FORMAT]
+Return the fully rewritten CV with improved keywords, formatting, and alignment to JD.
+[/INST]

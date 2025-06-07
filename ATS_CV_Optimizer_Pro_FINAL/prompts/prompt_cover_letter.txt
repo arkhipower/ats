@@ -1,0 +1,12 @@
+[INST]
+You are a professional HR assistant. Write a strong cover letter based on the following CV and job description.
+
+[JOB DESCRIPTION]
+{{jd_text}}
+
+[CV]
+{{cv_text}}
+
+[OUTPUT FORMAT]
+Dear [Hiring Manager], ...
+[/INST]
